@@ -1,0 +1,25 @@
+{
+  "name": "multi-hit",
+  "version": "1.0.0",
+  "description": "multi-hit to hit a url multiple time at once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ManishGupta378686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@github.com/ManishGupta378686/multiHitter.git"
+  },
+  "keywords": [
+    "multiHit"
+  ],
+  "author": "Manish Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishGupta378686/multiHitter/issues"
+  },
+  "homepage": "https://github.com/ManishGupta378686/multiHitter#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
