@@ -26,7 +26,7 @@ your data in key-value pairs. Also each method returns a promise.
 
 # Example :
 
-require multiHit = require('multi-hitter');
+require multiHit = require('multi-hit');
 
 const student = {
 rollNo : 1001,
