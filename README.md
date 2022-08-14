@@ -1,4 +1,4 @@
-# What is multi-hitter?
+# What is multi-hit?
 
     multiHitter is a package which consist distinct methods for hitting a url multiple time at once. It is primarily used for checking the performance of any web application. We can hit any url with any type of http methods(e.g get, post, put, patch, delete etc).
 
