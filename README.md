@@ -4,11 +4,11 @@
 
 # Installation :
 
-'npm i multi-hitter'
+'npm i multi-hit'
 
 # Syntax :
 
-require multiHit = require('multi-hitter');
+require multiHit = require('multi-hit');
 
 multiHit.GET(url, iterations); //for get request
 
