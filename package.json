@@ -1,6 +1,6 @@
 {
   "name": "multi-hit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "multi-hit to hit a url multiple time at once",
   "main": "index.js",
   "scripts": {
